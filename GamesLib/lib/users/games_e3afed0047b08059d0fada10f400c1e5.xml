@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Generated on 2025-06-08 18:51:16 by Admin
+    -->
+<!--
+    Generated on 2025-06-08 18:50:56 by Admin
+    -->
+<!--
+    Generated on 2025-06-08 18:48:59 by Admin
+    -->
+<!--
+    Generated on 2025-06-08 18:47:23 by Admin
+    -->
+<!--
+    Generated on 2025-06-08 18:46:55 by Admin
+    -->
+<!--
+    Generated on 2025-06-08 18:46:25 by Admin
+    -->
+<!--
+    Generated on 2025-06-08 18:45:56 by Admin
+    -->
+<!--
+    Generated on 2025-06-08 18:45:17 by Admin
+    -->
+<!--
+    Generated on 2025-06-08 18:44:38 by Admin
+    -->
+<!--
+    Generated on 2025-06-08 18:44:06 by Admin
+    -->
+<!--
+    Generated on 2025-06-08 18:40:55 by TUO_USERNAME
+    -->
+<Lib owner="Admin" created="2025-06-08T18:40:55+02:00">
+  <Gioco>
+    <Titolo>Assassin's Creed: Syndicate</Titolo>
+    <Voto>10</Voto>
+    <DoR>2015-11-19</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Assassin's Creed: Unity</Titolo>
+    <Voto>10</Voto>
+    <DoR>2014-11-11</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Assassin's Creed: 2</Titolo>
+    <Voto>9</Voto>
+    <DoR>2010-05-09</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Assassin's Creed: 3</Titolo>
+    <Voto>10</Voto>
+    <DoR>2012-11-20</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Assassin's Creed: Revelations</Titolo>
+    <Voto>8</Voto>
+    <DoR>2011-11-29</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Assassin's Creed: Brotherhood</Titolo>
+    <Voto>10</Voto>
+    <DoR>2011-03-22</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Assassin's Creed: IV Black Flag</Titolo>
+    <Voto>10</Voto>
+    <DoR>2013-01-01</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Assassin's Creed: Rogue</Titolo>
+    <Voto>9.5</Voto>
+    <DoR>2015-03-10</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Assassin's Creed: Odyssey</Titolo>
+    <Voto>10</Voto>
+    <DoR>2018-10-05</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Assassin's Creed: Valhalla</Titolo>
+    <Voto>9</Voto>
+    <DoR>2022-01-08</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>GTA: SA</Titolo>
+    <Voto>10</Voto>
+    <DoR>2005-01-01</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>GTA: IV (Complete Ed)</Titolo>
+    <Voto>10</Voto>
+    <DoR>2020-03-24</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>GTA: V (Enhanced)</Titolo>
+    <Voto>10</Voto>
+    <DoR>2025-03-04</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Dragon Age: Origins</Titolo>
+    <Voto>10</Voto>
+    <DoR>2009-11-08</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Dragon Age: 2</Titolo>
+    <Voto>10</Voto>
+    <DoR>2011-03-08</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Dragon Age: Inquisition</Titolo>
+    <Voto>10</Voto>
+    <DoR>2014-11-18</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Dragon Age: Veilguard</Titolo>
+    <Voto>5</Voto>
+    <DoR>2024-10-31</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>FIFA (TUTTI)</Titolo>
+    <Voto>10</Voto>
+    <DoR>2024-09-27</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>WWE (Serie)</Titolo>
+    <Voto>10</Voto>
+    <DoR>2024-03-08</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>cyberpunk 77</Titolo>
+    <Voto>10</Voto>
+    <DoR>2020-12-10</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Red Dead Redemption</Titolo>
+    <Voto>8</Voto>
+    <DoR>2024-10-29</DoR>
+    <Console>PC</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Red Dead Redemption II</Titolo>
+    <Voto>10</Voto>
+    <DoR>2019-12-05</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Eyiuden Chronicles: Hundred Heroes</Titolo>
+    <Voto>10</Voto>
+    <DoR>2024-04-23</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Octopath Traveler</Titolo>
+    <Voto>10</Voto>
+    <DoR>2019-06-07</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Octopath Traveler II</Titolo>
+    <Voto>10</Voto>
+    <DoR>2023-02-24</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Sleeping Dogs: Definitive Edition</Titolo>
+    <Voto>9</Voto>
+    <DoR>2014-10-08</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Pokemon (Serie)</Titolo>
+    <Voto>10</Voto>
+    <DoR>2005-01-01</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Persona 4 Golden</Titolo>
+    <Voto>9.5</Voto>
+    <DoR>2020-06-13</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Elden Ring</Titolo>
+    <Voto>10</Voto>
+    <DoR>2022-02-24</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Elden Ring: Nightreign</Titolo>
+    <Voto>9.5</Voto>
+    <DoR>2025-05-29</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Ghost of Tsushima</Titolo>
+    <Voto>10</Voto>
+    <DoR>2024-05-18</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Cyber manhunt</Titolo>
+    <Voto>10</Voto>
+    <DoR>2021-02-03</DoR>
+    <Console>PC</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Cyber manhunt 2</Titolo>
+    <Voto>10</Voto>
+    <DoR>2025-01-21</DoR>
+    <Console>PC</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Hacknet</Titolo>
+    <Voto>10</Voto>
+    <DoR>2015-08-12</DoR>
+    <Console>PC</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>The Godfather</Titolo>
+    <Voto>9.5</Voto>
+    <DoR>2009-10-06</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>The Godfather II</Titolo>
+    <Voto>10</Voto>
+    <DoR>2009-10-06</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Mafia I</Titolo>
+    <Voto>10</Voto>
+    <DoR>2002-08-28</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Mafia II</Titolo>
+    <Voto>10</Voto>
+    <DoR>2011-03-28</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:40:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>NFS (Serie)</Titolo>
+    <Voto>10</Voto>
+    <DoR>2005-02-22</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:44:06+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Grey Hack</Titolo>
+    <Voto>9</Voto>
+    <DoR>2017-12-15</DoR>
+    <Console>PC</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:44:38+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Vampyr</Titolo>
+    <Voto>9.5</Voto>
+    <DoR>2018-06-04</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:45:17+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Undertale</Titolo>
+    <Voto>10</Voto>
+    <DoR>2015-09-15</DoR>
+    <Console>PC</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:45:56+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Hades</Titolo>
+    <Voto>9</Voto>
+    <DoR>2020-09-17</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:46:25+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Baldur's Gate III</Titolo>
+    <Voto>10</Voto>
+    <DoR>2023-08-30</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:46:55+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Mad Max</Titolo>
+    <Voto>10</Voto>
+    <DoR>2015-09-01</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:47:23+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Tales of (Series)</Titolo>
+    <Voto>10</Voto>
+    <DoR>2015-10-19</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:48:59+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Prototype</Titolo>
+    <Voto>9</Voto>
+    <DoR>2009-06-10</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:50:56+02:00</AddedOn>
+  </Gioco>
+  <Gioco>
+    <Titolo>Prototype 2</Titolo>
+    <Voto>10</Voto>
+    <DoR>2012-07-24</DoR>
+    <Console>Multipiattaforma</Console>
+    <AddedBy>Admin</AddedBy>
+    <AddedOn>2025-06-08T18:51:16+02:00</AddedOn>
+  </Gioco>
+</Lib>

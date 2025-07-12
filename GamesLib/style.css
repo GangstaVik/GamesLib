@@ -1,0 +1,117 @@
+/* style.css */
+/* Stili generali */
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Header */
+header {
+    background: linear-gradient(135deg, #0d6efd 0%, #0b5ed7 100%);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Cards */
+.card {
+    border: none;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+/* Table styles */
+.table {
+    margin-bottom: 0;
+}
+
+.table thead th {
+    background-color: #212529;
+    color: white;
+    border-bottom: none;
+}
+
+.table-hover tbody tr:hover {
+    background-color: rgba(13, 110, 253, 0.05);
+}
+
+/* Badges */
+.badge {
+    font-weight: 500;
+    padding: 5px 10px;
+    border-radius: 50px;
+}
+
+/* Form styles */
+.form-control.is-valid, .form-select.is-valid {
+    border-color: #198754;
+    background-image: none;
+}
+
+.form-control.is-invalid, .form-select.is-invalid {
+    border-color: #dc3545;
+    background-image: none;
+}
+
+/* Buttons */
+.btn {
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    padding: 8px 16px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .mobile-optimized {
+        border: none;
+    }
+    
+    .mobile-optimized .table {
+        display: block;
+        overflow-x: auto;
+    }
+    
+    .btn-group-vertical {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.gioco-row {
+    animation: fadeIn 0.5s ease forwards;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
